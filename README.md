@@ -17,4 +17,4 @@ Korean Emotion Classification (klue/bert-base 기반)
 학습 데이터: 감정당 5000개씩, 중복 제거
 최고 정확도: 약 99.8%
 
-https://huggingface.co/dlckdfuf141/korean-emotion-kluebert-v2
+[Hugginface에서 다운로드]([http://www.naver.com/](https://huggingface.co/dlckdfuf141/korean-emotion-kluebert-v2))
